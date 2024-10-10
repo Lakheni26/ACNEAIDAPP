@@ -1,6 +1,7 @@
 # ACNEAIDAPP
  Download + Run the ACNEAIDAPP.JAR file to begin :) 
 
+_By the way, I've attached the .java  main class & GUI class files incase you'd like to view the code for this app_
  INSTRUCTIONS:
  
 1.) Acne Area: Enter one of the following: forehead, cheeks, or chin. (Any other input will prompt a recommendation to consult a dermatologist)
