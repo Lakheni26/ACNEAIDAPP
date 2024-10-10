@@ -1,5 +1,5 @@
 # ACNEAIDAPP
- a simple program to guide users in selecting antibiotics for acne treatment. Download + Run the ACNEAIDAPP.JAR to begin
+ Download + Run the ACNEAIDAPP.JAR file to begin :) 
 
  INSTRUCTIONS:
  
